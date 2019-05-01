@@ -1,3 +1,4 @@
+//this is a java file
 package butterknife;
 
 import android.content.Context;
